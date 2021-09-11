@@ -1,5 +1,3 @@
-# ModanisaTodoList
-
 ## Project run
 ```
 go run main.go
