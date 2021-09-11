@@ -1,5 +1,3 @@
-# ModanisaTodoList
-
 ## Project setup
 ```
 npm install
